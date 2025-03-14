@@ -18,15 +18,6 @@ main {
     flex-direction: column;
 }
 
-section {
-    color: #ffffff;
-    background-color: black;
-    padding: 12px;
-    margin: 20px;
-    /*   border: 2px solid red; */
-    /*   border-radius: 5px; */
-}
-
 .important {
     /*   color: #990000; */
     font-weight: bold;
@@ -62,4 +53,13 @@ li {
 
 header {
     background-color: red;
+}
+
+section {
+    color: #ffffff;
+    background-color: black;
+    padding: 12px;
+    margin: 20px;
+    /*   border: 2px solid red; */
+    /*   border-radius: 5px; */
 }
