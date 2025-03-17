@@ -20,10 +20,13 @@ h2 {
     color: white;
 }
 
-/* main {
-} */
+main {
+ padding: 20px;   
+}
 
 section{
+    max-width: 1024px;
+    margin: 20px auto;
     color: white;
     background-color: black;
     padding: 20px;
